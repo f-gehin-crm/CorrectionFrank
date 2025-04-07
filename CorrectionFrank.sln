@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrectionFrank", "CorrectionFrank\CorrectionFrank.csproj", "{A5A69ED5-FBE1-4428-9469-174AB81ED0C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CorrectionFrank", "CorrectionFrank\CorrectionFrank.csproj", "{A5A69ED5-FBE1-4428-9469-174AB81ED0C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnnéeBisextile", "AnnéeBisextile\AnnéeBisextile.csproj", "{19A0F0D1-E666-4A78-96CF-640413EFE40D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnnéeBisextile", "AnnéeBisextile\AnnéeBisextile.csproj", "{19A0F0D1-E666-4A78-96CF-640413EFE40D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableauStatiques", "TableauStatiques\TableauStatiques.csproj", "{88C4F1C5-14C5-4CC2-AA15-034A06C0E5E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TableauStatiques", "TableauStatiques\TableauStatiques.csproj", "{88C4F1C5-14C5-4CC2-AA15-034A06C0E5E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeudeLaFourchette", "JeudeLaFourchette\JeudeLaFourchette.csproj", "{BD8A6330-8470-4CAD-B410-E1B76DA94770}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JeudeLaFourchette", "JeudeLaFourchette\JeudeLaFourchette.csproj", "{BD8A6330-8470-4CAD-B410-E1B76DA94770}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriAminima", "TriAminima\TriAminima.csproj", "{007CE4A6-F023-414E-A47B-7FD535551439}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriAminima", "TriAminima\TriAminima.csproj", "{007CE4A6-F023-414E-A47B-7FD535551439}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jeux012", "Jeux012\Jeux012.csproj", "{421288D2-1DE0-458D-8FF4-B14B3F250BA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jeux012", "Jeux012\Jeux012.csproj", "{421288D2-1DE0-458D-8FF4-B14B3F250BA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciceMajorite", "ExerciceMajorite\ExerciceMajorite.csproj", "{ABA1136A-5BA0-491D-9011-A21B6D4BAC97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciceMajorite", "ExerciceMajorite\ExerciceMajorite.csproj", "{ABA1136A-5BA0-491D-9011-A21B6D4BAC97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriAbulleTableauStatique", "TriAbulleTableauStatique\TriAbulleTableauStatique.csproj", "{80F825A4-5BFC-4E33-A90B-BDE2A6B1BA52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriAbulleTableauStatique", "TriAbulleTableauStatique\TriAbulleTableauStatique.csproj", "{80F825A4-5BFC-4E33-A90B-BDE2A6B1BA52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeuDuPendu", "JeuDuPendu\JeuDuPendu.csproj", "{522E177E-CC3B-43EB-A715-C2D4EF022733}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{80F825A4-5BFC-4E33-A90B-BDE2A6B1BA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80F825A4-5BFC-4E33-A90B-BDE2A6B1BA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80F825A4-5BFC-4E33-A90B-BDE2A6B1BA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{522E177E-CC3B-43EB-A715-C2D4EF022733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522E177E-CC3B-43EB-A715-C2D4EF022733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522E177E-CC3B-43EB-A715-C2D4EF022733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522E177E-CC3B-43EB-A715-C2D4EF022733}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
