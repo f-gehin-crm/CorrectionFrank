@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciceMajorite", "Exercic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriAbulleTableauStatique", "TriAbulleTableauStatique\TriAbulleTableauStatique.csproj", "{80F825A4-5BFC-4E33-A90B-BDE2A6B1BA52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeuDuPendu", "JeuDuPendu\JeuDuPendu.csproj", "{522E177E-CC3B-43EB-A715-C2D4EF022733}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JeuDuPendu", "JeuDuPendu\JeuDuPendu.csproj", "{522E177E-CC3B-43EB-A715-C2D4EF022733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenombrementLettre", "DenombrementLettre\DenombrementLettre.csproj", "{2A4FA872-34FE-44C1-A196-1F5F655101F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{522E177E-CC3B-43EB-A715-C2D4EF022733}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{522E177E-CC3B-43EB-A715-C2D4EF022733}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{522E177E-CC3B-43EB-A715-C2D4EF022733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A4FA872-34FE-44C1-A196-1F5F655101F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4FA872-34FE-44C1-A196-1F5F655101F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4FA872-34FE-44C1-A196-1F5F655101F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4FA872-34FE-44C1-A196-1F5F655101F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
